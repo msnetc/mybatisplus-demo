@@ -28,5 +28,5 @@ public class User extends Model<User> {
     protected Serializable pkVal() {
         return this.id;
     }
-
+    
 }
